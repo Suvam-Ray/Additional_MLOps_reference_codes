@@ -1,1 +1,1 @@
-## This is the python app
+## End to End MAchine Learning Project
